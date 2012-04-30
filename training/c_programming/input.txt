@@ -1,0 +1,8 @@
+One line
+
+Another line
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+This site was inaugurated on 1 January 2000 as a repository for definitive answers to the exercises in "The C Programming Language" by Kernighan and Ritchie (2nd edition) - ISBN 0-13-110362-8. Since it's a relatively new site, not all of the exercises have been done. That will change over time, of course.
+
+Naturally, it's not impossible that you might notice a mistake, or be able to think of a better solution than the one presented on this site. If so, please let me know, and I'll consider your amendment for inclusion. I will try my best to ensure that full credit is given to all contributors to this site. Any uncredited listings (modulo errors of omission) are supplied by me personally, so beware! Complaints to email, please... 
